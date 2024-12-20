@@ -11,7 +11,7 @@
 
  [![hyobiin9's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobiin9)](https://github.com/hyobiin9/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobiin9&layout=donut)](https://github.com/hyobiin9/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ## :notebook: Used tools & skill
