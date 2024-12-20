@@ -30,3 +30,4 @@
 
 ## :eyes: About ME
 <a href="https://velog.io/@hyobiin9/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moone1234@kakao.com)](mailto:moone1234@kakao.com)
